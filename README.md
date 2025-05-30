@@ -1,4 +1,4 @@
-# Script de bash para instalar kde plasma en void linux glibc.
+# Script de bash personalizado para instalar kde plasma en void linux glibc.
 # Tras la instalación del sistema base, descargate el script de instalación. 
 # Por ejemplo clonando el repositorio.
 # Instala git.
