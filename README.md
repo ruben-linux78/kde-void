@@ -1,4 +1,4 @@
-# kde-void es un script de bash para instalar kde plasma completo, mas complementos en void linux glibc.
+# kde-void es un script de bash para instalar kde plasma completo, mas complementos, en void linux glibc.
 # Tras una instalación basica de void linux glibc, descargate el script de instalación. Por ejemplo clonando el repositorio.
 # Instalate git.
 sudo xbps-install -S git
